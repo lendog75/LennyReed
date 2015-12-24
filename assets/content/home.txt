@@ -1,0 +1,7 @@
+heading
+Slider
+RSS Feed
+Twitter Feed
+
+
+Need footer

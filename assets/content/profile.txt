@@ -1,0 +1,15 @@
+LENNY REED - SOFTWARE ENGINEER
+PROFILE
+Professional, senior full-stack web developer/team lead who just loves to code and has a “can do” attitude. I characterize myself as a builder, in everything i do I am building something. Whether it is building your application or building relationships with colleges and users, it is what I do!
+
+I am a husband, father, outdoorsmen, and software developer interested in Angular, Twitter Bootstrap, RESTFul API's, Cloud Services, WebApi and any other interesting technology.
+
+CORE STACK
+Angular, Twitter Bootstrap, REST, WebApi, AWS Elastic Compute Cloud (EC2), AWS Elastic Beanstalk (EBS), Ninject, MVC, LINQ, Entity Framework, Fiddler, Automapper
+
+NEW INTERESTS:
+Angular 2, Node, ExpressArduino, Raspberry Pi, .Net vNext, Docker, React
+
+HOBBIES:
+CrossFit, Hiking, Backpacking, Camping, Photography, Mountain Biking, Skiing
+

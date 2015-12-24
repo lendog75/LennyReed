@@ -1,0 +1,24 @@
+
+
+Angular.js - Parhaps 2?
+Pure as possible
+linted
+using controllerAs
+self executing functions
+SASS
+Bootstrap - perhaps 4?
+
+Fully Responsive
+
+Less single page than before
+
+
+CSS3
+HTML5
+
+
+
+integrates blog
+projects
+
+Use Bower, NPM, Gulp

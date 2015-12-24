@@ -1,0 +1,84 @@
+
+ASPENWARE
+2/2015-Present Sr. Consultant
+Although I worked on several projects, most of my time was spent working on a project for a world wide sports organization.
+Highlights
+Designed and developed Direct Athlete Support (DAS) and Operation Gold (OpGold) features allowing administrators to create new pay periods and payments for athletes. This system also includes rolled up totals, management of eligibility, copy forward (previous pay periods), athlete lookup and creation.
+Created Elite Athlete Health Insurance (EAHI) system, allowing admins to select athletes to be offered and approved for Elite Athlete Health Insurance. Key features include, each sport has different criteria, different number of athletes eligible for insurance, management of eligibility, copy forward, search and creation.
+Developed Athlete Profile feature allowing athletes to see and edit core profile information and to see past payments from DAS and OpGold as well as any EAHI insurance status
+Created Numerous directives to maintain separation of concerns and encapsulate functionality
+Refactored work from a previously developed application to conform to established Angular and .Net patterns
+Served as QA for Integration Team
+Produced detailed design documents based on client requirements
+Created "type ahead" athlete lookup feature
+Tech Stack: AngularJs, Twitter Bootstrap 3, HTML5 .Net 4.5, WebApi 2, Sitecore, SoapUI, WebStorm, Visual Studio 2013, Fiddler, Team Foundation Server (TFS), and Automapper
+
+In addition to my work on that project, here are a few other things I did in my time with Aspenware:
+I authored blog posts for Aspenware on the Internet of Things (IoT)
+Built a drink mixing robot based on Arduino, NodeJs, and the Johhny Five Robotics library for an Aspenware IoT event
+Became a Sitecore certified developer
+ASPENWARE/INSPIRATO
+10/2014-1/2015 Sr. Mobile Web Developer
+
+Highlights
+Contracted through Aspenware to develop 2 new features providing similar functionality offered in Inspirato's desktop website.
+Developed mobile version of Inspirato’s popular “Jaunt Now” feature. Including filtering, sorting, custom calendar, support for swipe gestures
+Developed mobile version Inspirato’s new “Jaunt 52” feature. Including filtering, sorting, custom calendar
+Fixed numerous bugs in other areas of the existing mobile web application
+Technologies stack includes: HTML, CSS3, SAAS, JQuery, MVC4 .Net 4.5, Scrum, Visual Studio 2013, Subversion, and Jira
+TOOLWATCH
+2/2013-10/2014 Sr. Developer/Team Lead
+Most of my work at ToolWatchhas been split between development of various RESTful API's and a handful of AngularJs applications to replace legacy products.
+
+Highlights
+Developed a new app (Shinobi) to replace the legacy Winforms app (AngularJs, Bootstrap and REsponsive Des. This app was very successful, ultimately becoming the development groups highest priority.
+Developed numerous custom directives (Angular)
+Served as team lead and developer on the Shinobi project
+Created a Amazon style search using gutter/facets, pagination, and sorting (Shinobi)
+Developed for internal management application using AngularJs and Bootstrap
+Personally developed nearly all server-side components needed to support the new IPhone application
+Developed 4 RESTful API's conforming to Level 3 of the Richardson Maturity Model using WebApi 2
+Deployed all API's using Amazon Elastic Beanstalk
+Developed the supporting business layer for each API, with extensive use of LINQ and lambdas, ORMLite, and both the facade and repository patterns
+Mentored other team members helping them become Angular developers
+Technologies stack includes: AngularJs, Twitter Bootstrap, .Net 4.5, WebApi 2, AWS ElasticBeanstalk (EBS), AWS Elastic Compute Cloud (EC2), ElasticSearch, MongoDb, OrmLite, SQL Server, Ninject, Generics, Visual Studio 2013, Scrum, Fiddler, GIT, Jira, Automapper, Agile, primary design patterns: facade and repository.
+THE GRAEBEL COMPANIES
+11/2010-2/2013 Sr. .Net Developer
+During my time at Graebel, I was a member of 2 different teams. In the beginning I played a key role in the re-development of one of their major brownfield applications, tracking the movement of goods around the globe. After this work was released, the team lead got a promotion, and I was asked to take over many of her responsibilities, including working closely with the broad international user-base, leading daily stand ups, and planning (with our analyst) for the upcoming sprints. During this time, I coded less, spending more time making sure things got done, tracking velocity, and on boarding new team members. The next step in my career soon came (still with Graebel), I was offered the opportunity to become part of the greenfield development team. I joined an existing team consisting of five of perhaps the most talented developers I have ever worked with,. During this time I switched from web forms and WCF to MVC and REST. This was an extremely exciting time, and I took the opportunity to learn as much as humanly possible. I was a member of a team that gave me the opportunity to help develop the enterprise Api (using WebApi) tying our many desparent systems together through the data warehouse, domain driven design concepts, messaging, and an enterprise service bus. I also had a big role in development of the consuming enterprise portal, joining the data from all the systems together into a consolidated system for our users. Eventually, the organization decided to expand their use of Oracle, eliminating our project.
+
+Highlights
+Developed new enterprise portal, consuming RESTful services using MVC3, JQuery UI, JQuery, Twitter Bootstrap, .Net 4, and domain events
+Developed enterprise API exposing RESTful services to the portal and other internal consumers. This project leveraged NServiceBus and MSMQ to provide a new distributed structure supporting an enterprise wide solution.
+Architected and developed new business layer pulling business logic previously in code behinds and other locations to the new object model. This work lead to huge increases in productivity across all business lines
+Served as scrum master, running morning standup, tracking velocity toward completion of team commitments, and arranging user stories and tasks for each sprint
+Unit testing often with Rhino Mocks or Moq to isolate code for testing
+Mentored numerous new team members, conducted code reviews, and constantly refactored the system to improve quality
+Migrated team and existing codebase from TFS 2008 to TFS 2010, created build definitions, restructured source tree
+Worked to build relationships with our domain experts and application owners serving as a leason to the business units
+Extensive work with EF4 and lambda expressions
+Executed regular deployment
+Technologies stack includes: WebApi, MVC3, Twitter Bootstrap, Responsive Design, Asp.Net, Entity Framework (EF4), LINQ, RESTful services, Scrum, Kanban NServiceBus, MSMQ, Service Broker, SQL Server, Ninject, Generics, Visual Studio 2010/2012, Agile, Fiddler, Team Foundation Server (TFS) Automapper, design patterns including: Domain Driven Design and Repository.
+UNIVERSITY OF CENTRAL FLORIDA - INSTITUTE FOR SIMULATION AND TRAINING
+2/2004-11/2010 Sr. Project Manager/Developer
+After spending several years as a Coldfusion developer, I took a position as a project manager for a team of CF developers. I oversaw multi-million dollar projects both for the university and the DoD. In this role I learned a lot, I was responsible for the production of my team for better or worse. I stood up for my people, and took the heat when they were wrong. I learned to judge talent, hiring and, unfortunately, sometimes letting people go, always learning as I went.
+
+Soon it became clear to me that Coldfusion was not the future for myself or my team, so I began migrating the group to Asp.Net and C# Though my official responsibilities did not require me to code, I really liked .Net and took on most infrastructure type work like authentication, authorization, data access and so on.
+
+
+Highlights
+Specialized in LINQ and related technologies including generics, lambda expressions, custom extension methods, and auto implemented properties.
+Lead developer for 3 large scale DoD Wide Web 2.0 projects based on .Net 3.5, LINQ to SQL, AJAX Control Toolkit, Generics, and Single Sign On (SSO) powered by Smart Card Authentication
+Personally developed a series of composite controls to be used in place of those contained within the .Net System.Web.UI.WebControls namespace. These controls add security, AJAX support, validation, and configuration improvements to the .Net controls they are based on, this was done using custom server controls not user controls. Configuration was done with XML and LINQ to XML was used extensively
+Extensive use of Windows Communication Foundation (WCF)
+Developed new departmental programming standards based on those recommended by Microsoft and introduced FxCop to help better meet those standards. Fluent user of FxCop
+Continually refactored previous work to improve the overall quality of our codebase
+Implemented Continuous integration using NAnt and Hudson CI server
+Key developer in over 15 projects
+JOHNS HOPKINS UNIVERSITY - ENTERPRISE SERVICES GROUP
+2001-2004 Sr. Enterprise Applications Developer
+
+Highlights
+Developed enterprise-wide directory system for all Johns Hopkins university and hospital personnel
+Personally developed JH Bed Management System (BMS) used by the institutions nurses with tablet PC’s to track bed availability and occupation data
+Prepared test plans and user documentation for Johns Hopkins Enterprise Directory System (JHED)
+Implemented clustered website utilizing 3 web servers, 6 LDAP servers, and one Oracle server distributed across 3 different campuses to provide load balancing, fail over, and maximum uptime for the above mission critical applications

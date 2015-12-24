@@ -1,0 +1,21 @@
+
+<div ng-controller="FeedCtrl">
+    <div class="row">
+        <div class="col-md-12  TitleSection">
+            <h1>Recent <span>Blog</span> Posts</h1>
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4" ng-repeat="feed in feeds | filter:filterText">
+            <div class="thumbnail">
+                <a href="{{feed.link}}" target="_blank" role="button"><img src="img/1.jpg" alt="..."></a>
+                <div class="caption">
+                    <h3><a href="{{feed.link}}" target="_blank" role="button">{{feed.title}}</a></h3>
+                    <p>{{feed.contentSnippet}}</p>
+                    <p><a href="{{feed.link}}" target="_blank" class="btn btn-primary" role="button">Read More</a> </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

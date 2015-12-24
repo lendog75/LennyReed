@@ -1,0 +1,6 @@
+EDUCATION|TRAINING|OTHER:
+Bachelor's of Science, Management Information Systems - Central Florida (UCF)
+Security Clearance: DoD Secret (NACLC)- September 2009
+Completed “Domain Driven Design” Training Course and implemented concepts based on the book “Domain Driven Design: Tackling Complexity in the Heart of Software” by: Eric Evans
+Completed ElasticSearch training
+Member of Denver HTML5 Meetup

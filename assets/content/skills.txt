@@ -1,0 +1,11 @@
+
+SKILLS AND TECHNOLOGIES
+click technologies below to highlight
+LINQ Lambdas WebApi 2 Generics AngularJs RESTFul Services
+ Api Visual Studio 2013 Team Foundation Server (TFS)
+ Amazon ElasticBeanstalk (EBS) .Net/C# 3.5/4.0/4.5
+ Entity Framework ORMLite Ninject LESS ElasticSearch
+ MVC Scrum Amazon Simple Queue Service (SQS) NServiceBus
+ Fiddler HTML3 Jira CSS3 JQuery Domain Driven Design (DDD)
+ JQuery UI SAAS Twitter Bootstrap Design Patterns Responsive Design
+ Amazon Elastic Compute Cloud EC2 Project Management Agile
