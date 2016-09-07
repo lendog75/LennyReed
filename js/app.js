@@ -3,12 +3,7 @@
 
     angular.module('www', [
         'ngRoute'
-        //, 'angular.filter'
-        //, 'mega-menu'
-        //, 'angularUtils.directives.dirPagination'
-        //, 'constructables.project-summary.directives'
         , 'www.home.controllers'
-        //, 'constructables.project-summary.controllers'
 
     ])
 
@@ -55,10 +50,7 @@
         }]);
 
     angular.module('www.home.controllers', [])
-    //angular.module('constructables.project-summary.controllers', ['constructables.project-summary.services'])
-    //angular.module('constructables.project-summary.controllers', ['constructables.project-summary.services'])
-    //angular.module('constructables.project-summary.directives', [])
-    //angular.module('constructables.project-summary.services', [])
+
 
 
 })();
